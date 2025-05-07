@@ -1,5 +1,11 @@
 # Berachain Contracts
 
+```text
+사용법: deploy.sh 로 폴더별로 스크립트를 실행한다.
+Deployer 주소가 정해져 있기 때문에 deployer 주소 수정시 .env 추가해서 해야 한다/
+rpc도 알잘딱 바꾼다.
+```
+
 `owner 주소: 0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01   0x23b19fd0ba67f921bc1f5a133bfe452060d129f025fcf1be75c6964551b1208a 이거 사용하니 사용금지`
 
 ```solidity
