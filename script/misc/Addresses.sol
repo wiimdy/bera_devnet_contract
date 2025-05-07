@@ -1,0 +1,15 @@
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.26;
+
+address constant USDC_ADDRESS = 0x4cc86b4467Db122Ef30be08F46D3C80ed59BC73B;
+address constant USDT_ADDRESS = 0xbD9Fc94377C4A0321080dD11956776924B2ad2c3;
+address constant DAI_ADDRESS = 0xfb670C84c0FEC4d3f36c595c8c50C2ba61a82885;
+address constant PYUSDC_ADDRESS = 0x6c3ea9036406852006290770BEdFcAbA0e23A0e8;
+
+// Testnet tokens used in whitelist token
+address constant PERIPHRY_DEBT_TOKEN = 0x1339503343be5626B40Ee3Aee12a4DF50Aa4C0B9;
+address constant HONEY_WBERA_LP = 0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7;
+address constant B_HONEY = 0x917Bb6c98D5FE6177c78eA21E0dD94175e175Dca;
+
+// Pyth Oracle
+address constant PYTH_ORACLE = 0x18d600F26FC26d2a9ad0464A22621D1951e7a901;
